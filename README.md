@@ -1,2 +1,2 @@
 # demo-class
-demo for git version control 
+demo for git version control. 
